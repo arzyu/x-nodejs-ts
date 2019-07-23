@@ -8,6 +8,7 @@
     "dist"
   ],
   "scripts": {
+    "start:debug": "node --inspect-brk -r ts-node/register src/index.ts",
     "prebuild": "rm -rf dist",
     "build": "tsc",
     "prepare": "npm run build"
