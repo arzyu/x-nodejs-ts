@@ -1,7 +1,7 @@
 {
-  "name": "${name}",
+  "name": "x-nodejs-ts",
   "version": "0.1.0",
-  "description": "${description}",
+  "description": "x-template for ts/nodejs project",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "files": [

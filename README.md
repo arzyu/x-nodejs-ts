@@ -1,3 +1,6 @@
-# ${name}
+# x-nodejs-ts
 
-This project is created from <${repo}>.
+## Configurations
+
+ - `package.json`: `name`, `description`
+ - `package-lock.json`: `name` (`npm install`)
